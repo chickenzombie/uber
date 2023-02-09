@@ -1,2 +1,2 @@
 # Uber landing
-chickenzombie.github.io/uber/
+https://chickenzombie.github.io/uber/
