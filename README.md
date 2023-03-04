@@ -1,2 +1,2 @@
 # Uber landing
-https://chickenzombie.github.io/uber/
+https://uberpartnersmoscow.vercel.app/
